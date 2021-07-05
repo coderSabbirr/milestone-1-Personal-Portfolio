@@ -87,7 +87,35 @@ section {
 }
 
 .about-me-sec {
-    /* margin-right:400px; */
+
     padding-right: 400px;
     text-align: justify;
+}
+
+.my-recipie {
+    text-align: center;
+    padding-bottom: 50px;
+
+}
+
+.sec-2 img {
+    width: 337px;
+    height: 256px;
+
+}
+.my-recipie h3{
+    font-size: 45px;
+    color:#676767;
+}
+
+.recipe-iteam {
+    margin-left: 166px;
+    margin-right: 111px;
+    padding: 10px 10px;
+    box-shadow: 10px 10px 15px 10px rgb(151, 149, 149);
+    border-radius: 20px;
+}
+
+.sec-2 {
+    padding-bottom: 100px;
 }
