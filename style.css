@@ -8,7 +8,7 @@ body {
 h1 {
     font-size: 70px;
     line-height: 30px;
-    font-weight: 700;
+    font-weight: 700px;
     color: #575757;
 }
 
@@ -23,7 +23,7 @@ p {
     font-size: 18px;
     color: #828282;
     ;
-    font-weight: 500;
+    font-weight: 500px;
 }
 
 .felx-container {
@@ -103,9 +103,10 @@ section {
     height: 256px;
 
 }
-.my-recipie h3{
+
+.my-recipie h3 {
     font-size: 45px;
-    color:#676767;
+    color: #676767;
 }
 
 .recipe-iteam {
@@ -117,12 +118,32 @@ section {
 }
 
 .sec-2 {
-    padding-bottom: 200px;
+    padding-bottom: 100px;
 }
+
+.our-team {
+    padding-left: 280px;
+    padding-bottom: 80px;
+    background-color: #FFC4A1;
+}
+
+.our-team h2 {
+    color: black;
+    font-size: 48px;
+    font-weight: 400px;
+}
+
+.our-team img {
+    border-radius: 50%;
+    margin-left: 200px;
+    height: 292px;
+    width: 292px;
+}
+
 footer {
     text-align: center;
     background-color: black;
-    padding: 10px 10px ;
+    padding: 10px 10px;
     color: #EAEAEA;
-    font-size:30px;
+    font-size: 30px;
 }
