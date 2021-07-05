@@ -12,9 +12,16 @@ h1 {
     color: #575757;
 }
 
+h2 {
+    font-size: 54px;
+    font-weight: 444px;
+    color: #707070;
+
+}
+
 p {
     font-size: 18px;
-    color: #575757;
+    color: #828282;
     ;
     font-weight: 500;
 }
@@ -31,8 +38,17 @@ section {
     padding-top: 70px;
 }
 
+.jut-eat-sec {
+    padding-bottom: 150px;
+}
+
 .sec-part-1 {
     padding-top: 200px;
+}
+
+.sec-part-1 img {
+    width: 654.98px;
+    height: 740.91 px;
 }
 
 .heaf-width {
@@ -41,15 +57,37 @@ section {
     padding-right: 5%;
 }
 
-.heaf-width img {
-    width: 100%;
-}
 
-.sec-part-1 a {
+.button-link {
     text-decoration: none;
     background-image: linear-gradient(to right, #FB944A, #FE4C2F);
-    padding: 20px 40px;
+    padding: 15px 40px;
     border-radius: 50px;
-    font-size: 20px;
+    font-size: 23px;
+    font-weight: 121px;
     color: white;
+}
+
+.sec-1 {
+    background-image: url(image/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.sec-1-part1 img {
+    margin-top: 65px;
+    width: 338px;
+    height: 536px;
+}
+
+.sec-1-part1 {
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+.about-me-sec {
+    /* margin-right:400px; */
+    padding-right: 400px;
+    text-align: justify;
 }
