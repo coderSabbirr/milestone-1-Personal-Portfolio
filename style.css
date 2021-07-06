@@ -123,8 +123,9 @@ section {
 
 .our-team {
     padding-left: 280px;
-    padding-bottom: 80px;
+    padding-bottom: 50px;
     background-color: #FFC4A1;
+    margin-bottom: 50px;
 }
 
 .our-team h2 {
@@ -140,10 +141,28 @@ section {
     width: 292px;
 }
 
+
+.count-sec {
+    width: 40%;
+    padding-left: 12%;
+
+}
+
+.follower {
+    box-shadow: 10px 10px 20px 10px rgb(241, 235, 235);
+    padding: 50px 0 50px 0;
+    margin-bottom: 100px;
+    border-radius: 50px;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+
 footer {
     text-align: center;
     background-color: black;
     padding: 10px 10px;
     color: #EAEAEA;
     font-size: 30px;
+    margin-top: 150px;
 }
