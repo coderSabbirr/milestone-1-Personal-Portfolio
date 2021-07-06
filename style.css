@@ -3,6 +3,7 @@
 body {
     margin: 0;
     font-family: 'Poppins', sans-serif;
+
 }
 
 h1 {
@@ -98,6 +99,12 @@ section {
 
 }
 
+.sec-2 {
+    padding-bottom: 100px;
+    ;
+}
+
+
 .sec-2 img {
     width: 337px;
     height: 256px;
@@ -108,7 +115,8 @@ section {
     font-size: 45px;
     color: #676767;
 }
-.our-recipe{
+
+.our-recipe {
     margin-left: 12%;
     margin-right: 12%;
 }
@@ -119,19 +127,22 @@ section {
     padding: 20px 20px;
     box-shadow: rgba(192, 190, 190, 0.25) 0px 54px 55px, rgba(192, 190, 190, 0.25) 0px -12px 30px, rgba(192, 190, 190, 0.25) 0px 4px 6px, rgba(192, 190, 190, 0.25) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
     border-radius: 20px;
+    background-color: white;
 }
+
+.recipe-iteam img {
+    border-radius: 20px;
+}
+
 .recipe-iteam p {
     text-align: justify;
 }
 
-.sec-2 {
-    padding-bottom: 100px;
-}
 
 .our-team {
     padding-left: 280px;
     padding-bottom: 50px;
-    background-color: #FFC4A1;
+    background-color: #FEF3EC;
     margin-bottom: 50px;
 }
 
@@ -148,6 +159,9 @@ section {
     width: 292px;
 }
 
+.sec-3 {
+    padding-bottom: 120px;
+}
 
 .count-sec {
     width: 40%;
@@ -156,20 +170,37 @@ section {
 }
 
 .follower {
-    box-shadow: 10px 10px 20px 10px rgb(241, 235, 235);
+
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     padding: 50px 0 50px 0;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
     border-radius: 50px;
     margin-left: 70px;
     margin-right: 70px;
     margin-top: 20px;
 }
 
+.sec-4 {
+    background-color: #F1EEEA;
+    margin-bottom: -120px;
+    padding-bottom: 30px;
+
+}
+
+.conttac-us-main {
+    margin-left: 10%;
+}
+
+.conttac-us {
+
+    padding-left: 10%;
+}
+
 footer {
     text-align: center;
-    background-color: black;
-    padding: 10px 10px;
+    background-color: #2A2525;
+    padding: 30px 20px;
     color: #EAEAEA;
     font-size: 30px;
-    margin-top: 150px;
+
 }
